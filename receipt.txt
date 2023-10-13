@@ -1,0 +1,12 @@
+================ 
+Binar FUD  
+================ 
+Terima kasih sudah memesan di BinarFud 
+Dibawah ini adalah pesanan anda
+ 
+
+Nasi Goreng 45,000 3
+Bihun Goreng 12,000 1
+================ 
+Simpan struk sebagai bukti pembayaran 
+================ 
